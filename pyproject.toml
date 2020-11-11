@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "cipher_dk3154"
-version = "0.1.0"
+version = "0.2.0"
 description = "Python package that allows for easy encryption of python strings"
 authors = ["Daryl Kow <dk3154@columbia.edu>"]
 license = "MIT"
