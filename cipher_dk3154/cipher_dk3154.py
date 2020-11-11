@@ -9,7 +9,7 @@ def cipher(text, shift, encrypt=True):
     shift: int
       A python integer which determines the value of the shift along the alphabetical order
     encrypt: bool
-      A python boolean which determines whether to apply the positive (encrypt) or negative (decrypt)           value of shift to the text
+      A python boolean which determines whether to apply the positive (encrypt) or negative (decrypt) value of shift to the text
         
     Returns
     -------
